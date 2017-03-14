@@ -1,0 +1,5 @@
+Tolga's Notes
+
+* User Powershell
+* Always ng new before adding to github
+* Don's start from GitHub ;)
